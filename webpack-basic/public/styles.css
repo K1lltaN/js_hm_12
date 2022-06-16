@@ -1,0 +1,22 @@
+/*!*************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/main.scss ***!
+  \*************************************************************************************************************/
+ul,
+ol {
+  text-align: left;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  background-color: gray;
+}
