@@ -1,0 +1,19 @@
+ul,
+ol {
+  text-align: left;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+p {
+  color: blue;
+}
+
+body {
+  background-color: gray;
+}
